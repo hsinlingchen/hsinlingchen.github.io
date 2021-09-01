@@ -1,6 +1,7 @@
 ## Welcome to Hsin-Ling Chen's Page
 
 I selected the data set of [COVID-19 Google](https://github.com/google-research/open-covid-19-data)
+
 This data set provides clear instruction on how to code to get the information needed from different sources in the Python environment. It’s a very user-friendly data set that allows people with limited coding experience to still enjoy the process of doing research by following the instructions provided. Moreover, the data set provides many reliable resources about COVID-19 from various locations around the world. With the resources provided, individuals could perform data synthesis that we talked about in class to find patterns and reasons by combining the datasets in order to be able to solve problems and create solutions. There are also resources provided for real time tracking and data from the global scale. Overall, this dataset provides various resources and information for COVID-19; it is a great site with trusting sources for individuals to research on different topics in different locations in the world. 
 
 
